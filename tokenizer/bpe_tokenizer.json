@@ -1,0 +1,541 @@
+{
+  "version": "1.0",
+  "truncation": null,
+  "padding": null,
+  "added_tokens": [
+    {
+      "id": 0,
+      "content": "[UNK]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 1,
+      "content": "[PAD]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 2,
+      "content": "[CLS]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 3,
+      "content": "[SEP]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 4,
+      "content": "[MASK]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 5,
+      "content": "[EOS]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 6,
+      "content": "User:",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 7,
+      "content": "LLM:",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 8,
+      "content": "\n",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    }
+  ],
+  "normalizer": null,
+  "pre_tokenizer": {
+    "type": "Whitespace"
+  },
+  "post_processor": null,
+  "decoder": null,
+  "model": {
+    "type": "BPE",
+    "dropout": null,
+    "unk_token": "[UNK]",
+    "continuing_subword_prefix": null,
+    "end_of_word_suffix": null,
+    "fuse_unk": false,
+    "byte_fallback": false,
+    "ignore_merges": false,
+    "vocab": {
+      "[UNK]": 0,
+      "[PAD]": 1,
+      "[CLS]": 2,
+      "[SEP]": 3,
+      "[MASK]": 4,
+      "[EOS]": 5,
+      "User:": 6,
+      "LLM:": 7,
+      "\n": 8,
+      ".": 9,
+      "A": 10,
+      "T": 11,
+      "a": 12,
+      "b": 13,
+      "c": 14,
+      "d": 15,
+      "e": 16,
+      "f": 17,
+      "g": 18,
+      "h": 19,
+      "i": 20,
+      "j": 21,
+      "k": 22,
+      "l": 23,
+      "m": 24,
+      "n": 25,
+      "o": 26,
+      "p": 27,
+      "q": 28,
+      "r": 29,
+      "s": 30,
+      "t": 31,
+      "u": 32,
+      "v": 33,
+      "w": 34,
+      "x": 35,
+      "y": 36,
+      "z": 37,
+      "he": 38,
+      "the": 39,
+      "en": 40,
+      "er": 41,
+      "le": 42,
+      "mp": 43,
+      "amp": 44,
+      "fo": 45,
+      "in": 46,
+      "is": 47,
+      "to": 48,
+      "ample": 49,
+      "An": 50,
+      "Th": 51,
+      "The": 52,
+      "ar": 53,
+      "at": 54,
+      "az": 55,
+      "ain": 56,
+      "br": 57,
+      "ce": 58,
+      "ck": 59,
+      "de": 60,
+      "do": 61,
+      "et": 62,
+      "ex": 63,
+      "ho": 64,
+      "iz": 65,
+      "ick": 66,
+      "ju": 67,
+      "ken": 68,
+      "lp": 69,
+      "laz": 70,
+      "mo": 71,
+      "ns": 72,
+      "ov": 73,
+      "ow": 74,
+      "othe": 75,
+      "pr": 76,
+      "pat": 77,
+      "qu": 78,
+      "rt": 79,
+      "rain": 80,
+      "sen": 81,
+      "sample": 82,
+      "sho": 83,
+      "ten": 84,
+      "ter": 85,
+      "help": 86,
+      "lear": 87,
+      "mps": 88,
+      "for": 89,
+      "fox": 90,
+      "ing": 91,
+      "token": 92,
+      "Anothe": 93,
+      "This": 94,
+      "brow": 95,
+      "del": 96,
+      "dog": 97,
+      "etrain": 98,
+      "example": 99,
+      "izer": 100,
+      "jumps": 101,
+      "lazy": 102,
+      "model": 103,
+      "over": 104,
+      "pretrain": 105,
+      "patter": 106,
+      "quick": 107,
+      "senten": 108,
+      "short": 109,
+      "learn": 110,
+      "tokenizer": 111,
+      "Another": 112,
+      "brown": 113,
+      "pretraining": 114,
+      "patterns": 115,
+      "sentence": 116
+    },
+    "merges": [
+      [
+        "h",
+        "e"
+      ],
+      [
+        "t",
+        "he"
+      ],
+      [
+        "e",
+        "n"
+      ],
+      [
+        "e",
+        "r"
+      ],
+      [
+        "l",
+        "e"
+      ],
+      [
+        "m",
+        "p"
+      ],
+      [
+        "a",
+        "mp"
+      ],
+      [
+        "f",
+        "o"
+      ],
+      [
+        "i",
+        "n"
+      ],
+      [
+        "i",
+        "s"
+      ],
+      [
+        "t",
+        "o"
+      ],
+      [
+        "amp",
+        "le"
+      ],
+      [
+        "A",
+        "n"
+      ],
+      [
+        "T",
+        "h"
+      ],
+      [
+        "T",
+        "he"
+      ],
+      [
+        "a",
+        "r"
+      ],
+      [
+        "a",
+        "t"
+      ],
+      [
+        "a",
+        "z"
+      ],
+      [
+        "a",
+        "in"
+      ],
+      [
+        "b",
+        "r"
+      ],
+      [
+        "c",
+        "e"
+      ],
+      [
+        "c",
+        "k"
+      ],
+      [
+        "d",
+        "e"
+      ],
+      [
+        "d",
+        "o"
+      ],
+      [
+        "e",
+        "t"
+      ],
+      [
+        "e",
+        "x"
+      ],
+      [
+        "h",
+        "o"
+      ],
+      [
+        "i",
+        "z"
+      ],
+      [
+        "i",
+        "ck"
+      ],
+      [
+        "j",
+        "u"
+      ],
+      [
+        "k",
+        "en"
+      ],
+      [
+        "l",
+        "p"
+      ],
+      [
+        "l",
+        "az"
+      ],
+      [
+        "m",
+        "o"
+      ],
+      [
+        "n",
+        "s"
+      ],
+      [
+        "o",
+        "v"
+      ],
+      [
+        "o",
+        "w"
+      ],
+      [
+        "o",
+        "the"
+      ],
+      [
+        "p",
+        "r"
+      ],
+      [
+        "p",
+        "at"
+      ],
+      [
+        "q",
+        "u"
+      ],
+      [
+        "r",
+        "t"
+      ],
+      [
+        "r",
+        "ain"
+      ],
+      [
+        "s",
+        "en"
+      ],
+      [
+        "s",
+        "ample"
+      ],
+      [
+        "s",
+        "ho"
+      ],
+      [
+        "t",
+        "en"
+      ],
+      [
+        "t",
+        "er"
+      ],
+      [
+        "he",
+        "lp"
+      ],
+      [
+        "le",
+        "ar"
+      ],
+      [
+        "mp",
+        "s"
+      ],
+      [
+        "fo",
+        "r"
+      ],
+      [
+        "fo",
+        "x"
+      ],
+      [
+        "in",
+        "g"
+      ],
+      [
+        "to",
+        "ken"
+      ],
+      [
+        "An",
+        "othe"
+      ],
+      [
+        "Th",
+        "is"
+      ],
+      [
+        "br",
+        "ow"
+      ],
+      [
+        "de",
+        "l"
+      ],
+      [
+        "do",
+        "g"
+      ],
+      [
+        "et",
+        "rain"
+      ],
+      [
+        "ex",
+        "ample"
+      ],
+      [
+        "iz",
+        "er"
+      ],
+      [
+        "ju",
+        "mps"
+      ],
+      [
+        "laz",
+        "y"
+      ],
+      [
+        "mo",
+        "del"
+      ],
+      [
+        "ov",
+        "er"
+      ],
+      [
+        "pr",
+        "etrain"
+      ],
+      [
+        "pat",
+        "ter"
+      ],
+      [
+        "qu",
+        "ick"
+      ],
+      [
+        "sen",
+        "ten"
+      ],
+      [
+        "sho",
+        "rt"
+      ],
+      [
+        "lear",
+        "n"
+      ],
+      [
+        "token",
+        "izer"
+      ],
+      [
+        "Anothe",
+        "r"
+      ],
+      [
+        "brow",
+        "n"
+      ],
+      [
+        "pretrain",
+        "ing"
+      ],
+      [
+        "patter",
+        "ns"
+      ],
+      [
+        "senten",
+        "ce"
+      ]
+    ]
+  }
+}

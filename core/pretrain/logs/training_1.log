@@ -1,0 +1,252 @@
+Processing texts into training samples...
+Epoch 1/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 1/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=6.3888]Epoch 1/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00,  3.33it/s, loss=6.3888]Epoch 1/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00,  3.33it/s, loss=6.3888]
+Epoch 1 | Avg Train Loss: 6.3888 | Val Loss: 5.5839
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_1...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_1 (Val Loss: 5.5839)
+Epoch 2/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 2/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=5.8731]Epoch 2/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 20.98it/s, loss=5.8731]
+Epoch 2 | Avg Train Loss: 5.8731 | Val Loss: 4.8707
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_2...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_2 (Val Loss: 4.8707)
+Epoch 3/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 3/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=5.3794]Epoch 3/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 20.87it/s, loss=5.3794]
+Epoch 3 | Avg Train Loss: 5.3794 | Val Loss: 4.2434
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_3...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_3 (Val Loss: 4.2434)
+Epoch 4/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 4/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=4.9440]Epoch 4/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 23.96it/s, loss=4.9440]
+Epoch 4 | Avg Train Loss: 4.9440 | Val Loss: 3.7212
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_4...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_4 (Val Loss: 3.7212)
+Epoch 5/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 5/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=4.5635]Epoch 5/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 11.10it/s, loss=4.5635]
+Epoch 5 | Avg Train Loss: 4.5635 | Val Loss: 3.3063
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_5...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_5 (Val Loss: 3.3063)
+Epoch 6/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 6/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=4.2597]Epoch 6/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 24.27it/s, loss=4.2597]
+Epoch 6 | Avg Train Loss: 4.2597 | Val Loss: 2.9877
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_6...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_6 (Val Loss: 2.9877)
+Epoch 7/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 7/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=4.0184]Epoch 7/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 12.56it/s, loss=4.0184]
+Epoch 7 | Avg Train Loss: 4.0184 | Val Loss: 2.7482
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_7...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_7 (Val Loss: 2.7482)
+Epoch 8/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 8/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.8282]Epoch 8/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 15.98it/s, loss=3.8282]
+Epoch 8 | Avg Train Loss: 3.8282 | Val Loss: 2.5697
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_8...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_8 (Val Loss: 2.5697)
+Epoch 9/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 9/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.6864]Epoch 9/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 15.70it/s, loss=3.6864]
+Epoch 9 | Avg Train Loss: 3.6864 | Val Loss: 2.4364
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_9...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_9 (Val Loss: 2.4364)
+Epoch 10/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 10/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.5710]Epoch 10/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 16.89it/s, loss=3.5710]
+Epoch 10 | Avg Train Loss: 3.5710 | Val Loss: 2.3359
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_10...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_10 (Val Loss: 2.3359)
+Epoch 11/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 11/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.4751]Epoch 11/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 15.67it/s, loss=3.4751]
+Epoch 11 | Avg Train Loss: 3.4751 | Val Loss: 2.2588
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_11...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_11 (Val Loss: 2.2588)
+Epoch 12/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 12/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.4010]Epoch 12/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 20.90it/s, loss=3.4010]
+Epoch 12 | Avg Train Loss: 3.4010 | Val Loss: 2.1985
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_12...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_12 (Val Loss: 2.1985)
+Epoch 13/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 13/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.3434]Epoch 13/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 21.07it/s, loss=3.3434]
+Epoch 13 | Avg Train Loss: 3.3434 | Val Loss: 2.1504
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_13...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_13 (Val Loss: 2.1504)
+Epoch 14/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 14/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.2927]Epoch 14/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 12.52it/s, loss=3.2927]
+Epoch 14 | Avg Train Loss: 3.2927 | Val Loss: 2.1112
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_14...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_14 (Val Loss: 2.1112)
+Epoch 15/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 15/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.2405]Epoch 15/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 31.26it/s, loss=3.2405]
+Epoch 15 | Avg Train Loss: 3.2405 | Val Loss: 2.0788
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_15...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_15 (Val Loss: 2.0788)
+Epoch 16/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 16/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.1999]Epoch 16/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 20.83it/s, loss=3.1999]
+Epoch 16 | Avg Train Loss: 3.1999 | Val Loss: 2.0514
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_16...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_16 (Val Loss: 2.0514)
+Epoch 17/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 17/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.1591]Epoch 17/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 21.02it/s, loss=3.1591]
+Epoch 17 | Avg Train Loss: 3.1591 | Val Loss: 2.0279
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_17...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_17 (Val Loss: 2.0279)
+Epoch 18/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 18/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.1336]Epoch 18/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 21.08it/s, loss=3.1336]
+Epoch 18 | Avg Train Loss: 3.1336 | Val Loss: 2.0075
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_18...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_18 (Val Loss: 2.0075)
+Epoch 19/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 19/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.0878]Epoch 19/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 15.70it/s, loss=3.0878]
+Epoch 19 | Avg Train Loss: 3.0878 | Val Loss: 1.9894
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_19...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_19 (Val Loss: 1.9894)
+Epoch 20/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 20/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.0583]Epoch 20/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 31.77it/s, loss=3.0583]
+Epoch 20 | Avg Train Loss: 3.0583 | Val Loss: 1.9733
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_20...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_20 (Val Loss: 1.9733)
+Epoch 21/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 21/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=3.0252]Epoch 21/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 18.76it/s, loss=3.0252]
+Epoch 21 | Avg Train Loss: 3.0252 | Val Loss: 1.9587
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_21...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_21 (Val Loss: 1.9587)
+Epoch 22/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 22/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.9981]Epoch 22/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 17.27it/s, loss=2.9981]
+Epoch 22 | Avg Train Loss: 2.9981 | Val Loss: 1.9454
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_22...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_22 (Val Loss: 1.9454)
+Epoch 23/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 23/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.9720]Epoch 23/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 15.10it/s, loss=2.9720]
+Epoch 23 | Avg Train Loss: 2.9720 | Val Loss: 1.9330
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_23...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_23 (Val Loss: 1.9330)
+Epoch 24/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 24/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.9421]Epoch 24/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 23.97it/s, loss=2.9421]
+Epoch 24 | Avg Train Loss: 2.9421 | Val Loss: 1.9215
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_24...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_24 (Val Loss: 1.9215)
+Epoch 25/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 25/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.9145]Epoch 25/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 13.12it/s, loss=2.9145]
+Epoch 25 | Avg Train Loss: 2.9145 | Val Loss: 1.9108
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_25...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_25 (Val Loss: 1.9108)
+Epoch 26/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 26/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.8810]Epoch 26/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 12.72it/s, loss=2.8810]
+Epoch 26 | Avg Train Loss: 2.8810 | Val Loss: 1.9006
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_26...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_26 (Val Loss: 1.9006)
+Epoch 27/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 27/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.8605]Epoch 27/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 16.87it/s, loss=2.8605]
+Epoch 27 | Avg Train Loss: 2.8605 | Val Loss: 1.8909
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_27...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_27 (Val Loss: 1.8909)
+Epoch 28/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 28/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.8377]Epoch 28/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 14.60it/s, loss=2.8377]
+Epoch 28 | Avg Train Loss: 2.8377 | Val Loss: 1.8818
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_28...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_28 (Val Loss: 1.8818)
+Epoch 29/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 29/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.8136]Epoch 29/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 17.22it/s, loss=2.8136]
+Epoch 29 | Avg Train Loss: 2.8136 | Val Loss: 1.8732
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_29...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_29 (Val Loss: 1.8732)
+Epoch 30/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 30/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.7831]Epoch 30/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 14.59it/s, loss=2.7831]
+Epoch 30 | Avg Train Loss: 2.7831 | Val Loss: 1.8649
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_30...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_30 (Val Loss: 1.8649)
+Epoch 31/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 31/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.7521]Epoch 31/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 12.86it/s, loss=2.7521]
+Epoch 31 | Avg Train Loss: 2.7521 | Val Loss: 1.8571
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_31...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_31 (Val Loss: 1.8571)
+Epoch 32/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 32/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.7385]Epoch 32/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 19.48it/s, loss=2.7385]
+Epoch 32 | Avg Train Loss: 2.7385 | Val Loss: 1.8498
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_32...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_32 (Val Loss: 1.8498)
+Epoch 33/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 33/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.7103]Epoch 33/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 14.81it/s, loss=2.7103]
+Epoch 33 | Avg Train Loss: 2.7103 | Val Loss: 1.8428
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_33...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_33 (Val Loss: 1.8428)
+Epoch 34/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 34/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.7022]Epoch 34/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 14.81it/s, loss=2.7022]
+Epoch 34 | Avg Train Loss: 2.7022 | Val Loss: 1.8362
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_34...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_34 (Val Loss: 1.8362)
+Epoch 35/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 35/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.6641]Epoch 35/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 15.19it/s, loss=2.6641]
+Epoch 35 | Avg Train Loss: 2.6641 | Val Loss: 1.8301
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_35...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_35 (Val Loss: 1.8301)
+Epoch 36/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 36/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.6536]Epoch 36/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 18.14it/s, loss=2.6536]
+Epoch 36 | Avg Train Loss: 2.6536 | Val Loss: 1.8242
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_36...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_36 (Val Loss: 1.8242)
+Epoch 37/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 37/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.6164]Epoch 37/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 15.41it/s, loss=2.6164]
+Epoch 37 | Avg Train Loss: 2.6164 | Val Loss: 1.8188
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_37...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_37 (Val Loss: 1.8188)
+Epoch 38/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 38/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.6009]Epoch 38/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 15.72it/s, loss=2.6009]
+Epoch 38 | Avg Train Loss: 2.6009 | Val Loss: 1.8136
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_38...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_38 (Val Loss: 1.8136)
+Epoch 39/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 39/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.5779]Epoch 39/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 14.80it/s, loss=2.5779]
+Epoch 39 | Avg Train Loss: 2.5779 | Val Loss: 1.8086
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_39...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_39 (Val Loss: 1.8086)
+Epoch 40/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 40/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.5520]Epoch 40/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 18.10it/s, loss=2.5520]
+Epoch 40 | Avg Train Loss: 2.5520 | Val Loss: 1.8040
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_40...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_40 (Val Loss: 1.8040)
+Epoch 41/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 41/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.5315]Epoch 41/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 18.11it/s, loss=2.5315]
+Epoch 41 | Avg Train Loss: 2.5315 | Val Loss: 1.7996
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_41...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_41 (Val Loss: 1.7996)
+Epoch 42/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 42/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.5106]Epoch 42/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 13.49it/s, loss=2.5106]
+Epoch 42 | Avg Train Loss: 2.5106 | Val Loss: 1.7954
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_42...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_42 (Val Loss: 1.7954)
+Epoch 43/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 43/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.4899]Epoch 43/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 20.40it/s, loss=2.4899]
+Epoch 43 | Avg Train Loss: 2.4899 | Val Loss: 1.7914
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_43...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_43 (Val Loss: 1.7914)
+Epoch 44/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 44/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.4644]Epoch 44/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 24.23it/s, loss=2.4644]
+Epoch 44 | Avg Train Loss: 2.4644 | Val Loss: 1.7877
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_44...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_44 (Val Loss: 1.7877)
+Epoch 45/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 45/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.4442]Epoch 45/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 19.36it/s, loss=2.4442]
+Epoch 45 | Avg Train Loss: 2.4442 | Val Loss: 1.7840
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_45...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_45 (Val Loss: 1.7840)
+Epoch 46/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 46/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.4244]Epoch 46/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 26.85it/s, loss=2.4244]
+Epoch 46 | Avg Train Loss: 2.4244 | Val Loss: 1.7806
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_46...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_46 (Val Loss: 1.7806)
+Epoch 47/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 47/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.3958]Epoch 47/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 20.85it/s, loss=2.3958]
+Epoch 47 | Avg Train Loss: 2.3958 | Val Loss: 1.7773
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_47...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_47 (Val Loss: 1.7773)
+Epoch 48/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 48/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.3785]Epoch 48/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 32.56it/s, loss=2.3785]
+Epoch 48 | Avg Train Loss: 2.3785 | Val Loss: 1.7740
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_48...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_48 (Val Loss: 1.7740)
+Epoch 49/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 49/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.3474]Epoch 49/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 27.46it/s, loss=2.3474]
+Epoch 49 | Avg Train Loss: 2.3474 | Val Loss: 1.7708
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_49...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_49 (Val Loss: 1.7708)
+Epoch 50/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 50/50 [pretrain]:   0%|          | 0/1 [00:00<?, ?it/s, loss=2.3347]Epoch 50/50 [pretrain]: 100%|##########| 1/1 [00:00<00:00, 31.51it/s, loss=2.3347]
+Epoch 50 | Avg Train Loss: 2.3347 | Val Loss: 1.7677
+Saving full model to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_50...
+Full model saved successfully.
+Saved model checkpoint to C:\Users\amitk\OneDrive\Desktop\abcdef\saved_models\checkpoints\pretrain\1_epoch_50 (Val Loss: 1.7677)
+Training run '1' complete.

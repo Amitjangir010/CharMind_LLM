@@ -1,0 +1,65 @@
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Environment files
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+coverage.xml
+
+# Test output
+test-results/
+*.out
+
+# Compiled JS
+*.bundle.js
+
+# Misc
+*.swp
+*.swo
+
+# Model checkpoints and outputs
+core/finetune/saved_models/
+core/pretrain/data/processed_training_corpus.jsonl

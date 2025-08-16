@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CharMind LLM</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="main-container">
+        <!-- Sidebar for controls and settings -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>CharMind</h2>
+                <p>Your Personal AI</p>
+            </div>
+            <nav class="sidebar-nav">
+                <div class="nav-section">
+                    <label for="model-select">Active Model</label>
+                    <select id="model-select"><option>Loading...</option></select>
+                </div>
+                <div class="nav-section">
+                    <label>Interface Mode</label>
+                    <div class="mode-toggle">
+                        <button id="normal-mode-btn" class="mode-btn active">Chat</button>
+                        <button id="rlhf-mode-btn" class="mode-btn">RLHF Labeling</button>
+                    </div>
+                </div>
+                <!-- New Training Management Section -->
+                <div class="nav-section" id="training-controls">
+                    <label>Training Management</label>
+                    <form id="training-form">
+                        <select id="training-mode" name="mode">
+                            <option value="finetune">Fine-tune</option>
+                            <option value="pretrain">Pre-train</option>
+                            <option value="rlhf">RLHF</option>
+                        </select>
+                        <input type="text" id="run-name" name="run_name" placeholder="Enter Run Name" required>
+                        <div id="base-model-selector-container" style="display: none;">
+                            <label for="base-model-select">Base Model for RLHF</label>
+                            <select id="base-model-select" name="base_model_path"></select>
+                        </div>
+                        <button type="submit" id="start-training-btn">Start Training</button>
+                    </form>
+                </div>
+            </nav>
+            <div class="sidebar-footer">
+                <p>Status: <span id="status-indicator">Idle</span></p>
+            </div>
+        </aside>
+
+        <!-- Main content area for chat and other interfaces -->
+        <main class="main-content">
+            <div class="chat-area" id="chat-area">
+                <div class="messages" id="messages">
+                    <!-- Messages will be dynamically inserted here -->
+                </div>
+            </div>
+
+            <div class="rlhf-area" id="rlhf-area" style="display: none;">
+                <h2>Rate Responses to Align the Model</h2>
+                <p id="rlhf-prompt-display"></p>
+                <div class="rlhf-replies">
+                    <!-- RLHF responses will be dynamically inserted here -->
+                </div>
+                <button id="next-prompt-btn" style="display:none;">Next Prompt</button>
+            </div>
+
+            <!-- Moved chat-input-container outside chat-area so it's always visible -->
+            <div class="chat-input-container">
+                <form id="chat-form" autocomplete="off">
+                    <input type="text" id="user-input" placeholder="Type your message..." autofocus required />
+                    <button type="submit" id="send-btn">Send</button>
+                    <button type="button" id="stop-btn" style="display:none;">Stop</button>
+                </form>
+            </div>
+        </main>
+
+        <!-- Area for monitoring training jobs -->
+        <section class="monitoring-area" id="training-status-area">
+            <h3>Training Status</h3>
+            <div id="training-status-content">
+                <p>No active training jobs.</p>
+            </div>
+        </section>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
